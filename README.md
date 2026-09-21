@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishekverma2656/DSA-Learning/tree/master/0992-subarrays-with-k-different-integers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhishekverma2656/DSA-Learning/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
