@@ -14,9 +14,9 @@ class Solution {
                 maxCount=Math.max(maxCount,count);
                 count=0;
                 i++;
-
             }
         }
+
         return Math.max(maxCount,count);
         
     }
